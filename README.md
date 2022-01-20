@@ -1,7 +1,6 @@
 Hi
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iDeadXD&show_icons=true&theme=dracula">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDeadXD&show_icons=true&theme=dracula">
+  <a href="https://github.com/Ditttt">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iDeadXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDeadXD&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
