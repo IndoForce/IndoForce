@@ -1,13 +1,10 @@
 Hi.
 
-<br>
-=> ID
-=> 15 y.o
-=> Discord Bot Developer
-=> Currently Mastering Python
-=> Discord Username: iDead#9496
-
-<br>
+=> ID <br />
+=> 15 y.o <br />
+=> Discord Bot Developer <br />
+=> Currently Mastering Python <br />
+=> Discord Username: iDead#9496 <br />
 
 <div align="center">
   <a href="https://github.com/iDeadXD">
