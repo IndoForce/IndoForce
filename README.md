@@ -1,7 +1,6 @@
 Hi.
 
 <br>
-
 => ID
 => 15 y.o
 => Discord Bot Developer
