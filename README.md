@@ -1,10 +1,11 @@
 Hi.
-
-<h1>=> ID</h1>
-<h2>=> 15 y.o</h2>
-<h3>=> Discord Bot Developer</h3>
-=> Currently Mastering Python
-=> Discord Username: iDead#9496
+<br>
+  => ID
+  => 15 y.o
+  => Discord Bot Developer
+  => Currently Mastering Python
+  => Discord Username: iDead#9496
+</br>
 
 <div align="center">
   <a href="https://github.com/iDeadXD">
