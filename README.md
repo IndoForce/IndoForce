@@ -1,8 +1,8 @@
 Hi.
 
-=> ID
-=> 15 y.o
-=> Discord Bot Developer
+<h1>=> ID</h1>
+<h2>=> 15 y.o</h2>
+<h3>=> Discord Bot Developer</h3>
 => Currently Mastering Python
 => Discord Username: iDead#9496
 
