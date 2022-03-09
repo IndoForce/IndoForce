@@ -3,7 +3,7 @@ Hi.
 => ID <br />
 => 15 y.o <br />
 => Discord Bot Developer <br />
-=> Currently Mastering Python <br />
+=> Currently learning Python <br />
 => Discord Username: iDead#9496 <br />
 
 <div align="center">
