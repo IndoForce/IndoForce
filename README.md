@@ -5,6 +5,7 @@ Hi.
 => Discord Bot Developer <br />
 => Currently learning Python <br />
 => Discord Username: iDead#9496 <br />
+=> New bot project: WIP...
 
 <div align="center">
   <a href="https://github.com/iDeadXD">
