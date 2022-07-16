@@ -3,7 +3,7 @@
 => ID <br />
 => 15 y.o <br />
 => Discord Bot Developer <br />
-=> Currently learning Python <br />
+=> Currently learning Python, C++, and Lua <br />
 => Discord Username: iDead#9496 <br />
 => New bot project: WIP...
 
