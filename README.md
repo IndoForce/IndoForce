@@ -3,7 +3,7 @@
 => ID <br />
 => 15 y.o <br />
 => Discord Bot Developer <br />
-=> Currently learning Python, C++ (For Arduino), and Lua (For Garry's Mod Plugin) <br />
+=> Currently learning Python and Java <br />
 => Discord Username: iDead#9496 <br />
 => New bot project: WIP...
 
