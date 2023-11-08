@@ -5,7 +5,8 @@
 => Discord Bot Developer <br />
 => Currently learning Python and Java <br />
 => Discord Username: iDead#9496 <br />
-=> New bot project: WIP...
+=> New bot project: WIP... <br />
+=> Next: Learning Android(ROM) Development
 
 # iDeadXD
 ---
