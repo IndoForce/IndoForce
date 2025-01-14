@@ -1,12 +1,12 @@
 # Hi.
 
 => ID <br />
-=> 15 y.o <br />
+=> 18 y.o <br />
 => Discord Bot Developer <br />
-=> Currently learning Python and Java <br />
+=> Currently learning Python and C <br />
 => Discord Username: iDead#9496 <br />
-=> New bot project: WIP... <br />
-=> Next: Learning Android(ROM) Development
+=> New bot project: Skipped <br />
+=> Next: Android(ROM, Kernel) Development,
 
 # iDeadXD
 ---
